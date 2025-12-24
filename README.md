@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gamitha-harshana-647783321/"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"></a>&nbsp;&nbsp;
   <a href="https://web.facebook.com/gamitha.harshana/" target="_blank"><img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"></a>&nbsp;&nbsp;
+  <a href="https://gamitha-harshana.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"></a>&nbsp;&nbsp;
 </p>
 
 ---
